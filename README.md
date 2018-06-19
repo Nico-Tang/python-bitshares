@@ -1,4 +1,4 @@
-# Python Library for BitShares
+# Python Library for  BitShares by nico
 
 ![](https://img.shields.io/pypi/v/bitshares.svg?style=for-the-badge)
 ![](https://img.shields.io/github/release/xeroc/python-bitshares.svg?style=for-the-badge)
